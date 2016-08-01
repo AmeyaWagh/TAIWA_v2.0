@@ -1,0 +1,92 @@
+It is warm here,fan
+It is cool here,fan
+It is hot,fan
+It is cold,fan
+I am boiling,fan
+I am freezing,fan
+I am cooked,fan
+I am frozen,fan
+I am sweating,fan
+I am shivering,fan
+switch on the fan,fan
+switch off the fan,fan
+It is so dark,light
+It is dark in here,light
+It is so bright,light
+I can't see anything,light
+I cannot see,light
+switch on the lights,light
+switch off the lights,light
+switch on the light,light
+switch off the light,light
+It is gloomy,light
+It is gloomy in here,light
+It is so dull,light
+show me today's headlines,news
+show me today's news,news
+read me the news,news
+read me the headlines,news
+write down a note,note
+take down a note,note
+take this down,note
+please write this down,note
+show me today's mails,Email
+show me today's emails,Email
+read mail,Email
+read email,Email
+read me the email,Email
+send this mail,mailer
+please send this mail,mailer
+mail this,mailer
+please mail this,mailer
+send this note,mailer
+please send this email,mailer
+send this email,mailer
+please send this note,mailer
+read me the note,Rnote
+read out the note,Rnote
+say what is in the note,Rnote
+show me the note,Rnote
+logmein,Login
+please log me in,Login
+recognise me,Login
+detect my face,Login
+open my profile,Login
+login,Login
+detect me,Login
+play a song,song 
+play me a song,song
+play me some music,song
+please lighten up my mood,song
+play some good music,song
+play my favourites,song
+list all the songs,song
+show me all the songs,song
+songs,song
+goodbye,goodbye
+see you later,goodbye
+see you tomorrow,goodbye
+bye,goodbye
+show me who is outside,camera
+show me who is at the door,camera
+show me who is knocking the door,camera
+open the door,lock
+please come in,lock
+lock the door,lock
+please lock the door,lock
+let him pass throught the door,lock
+let him come in,lock
+please lock the door,lock
+lock the door,lock
+close the door,lock
+don't let anyone in,lock
+keep him outside,lock
+hello,greetings
+good morning,greetings
+hey,greetings
+copy this document,ocr
+capture this document,ocr
+convert this document to note,ocr
+please copy this document,ocr
+please capture this document,ocr
+please convert this document to note,ocr
